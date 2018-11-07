@@ -1,4 +1,4 @@
-# creatives
+# Creatives
 Creatives is a theme created with the framework Bootstrap 
 
 ## Mission
